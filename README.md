@@ -2,7 +2,7 @@
 
 ## 📝 AstroDance EXPO Modelo 2024
 
-Proyecto AstroDance creado por alumnos de 5to año Computación para la EXPO Modelo 2024.
+Proyecto AstroDance para la EXPO Modelo 2024.
 
 ## 🤝 Equipo
 
